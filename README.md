@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# openCV
+
 
 ## Learning OpenCV
 
